@@ -1,0 +1,33 @@
+
+main h2{
+    text-decoration: underline; 
+    margin-top: 5vh;
+    margin-inline: 10px  ;
+
+}
+
+#club {
+    float: left; 
+    width: 28%;
+    margin-left: 2vh;
+}
+
+#textclub {
+    float: right; 
+    width: 68%;   
+    margin-top: 5vh;
+
+}
+
+#club2 {
+    float: right; 
+    width: 28%;
+    margin-top: 20vh;
+}
+
+#textclub2 {
+    float: left; 
+    width: 68%;   
+    margin-top: 5vh;
+    margin-left: 2vh;
+}

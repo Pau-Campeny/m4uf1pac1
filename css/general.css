@@ -1,0 +1,22 @@
+main h2{    
+    text-decoration: underline; 
+    margin-top: 4vh;
+    text-align: center;
+
+}
+section h3{
+    text-decoration: underline; 
+    margin-top: 7vh;
+   
+    
+}
+#imagen{
+    float: left; 
+    width: 28%;
+    margin-left: 2vh;
+}
+#text{
+    margin-top: 3vh;
+    margin: 2vh;
+    margin-left: 4  vh;
+}
